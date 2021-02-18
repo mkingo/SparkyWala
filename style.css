@@ -1,0 +1,151 @@
+
+@charset "UTF-8";
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400|Passion+One:400");
+body{
+    background-color: #42455a;
+}
+
+a:hover{
+    color: rgb(120, 31, 161);
+}
+a:visited{
+    color:pink;
+}
+.view h1{
+    color: blue;
+    margin-right: 90px;
+    margin-top: 90px;
+    margin-bottom: auto;
+    margin-left: 90px;
+
+     
+}
+
+.navbar img{
+    height: 62px;
+    width: 82px;
+
+}
+*{
+    margin:0;
+    padding:0;
+}
+
+.card .btn:hover{
+    background-color: #eeeeee;
+    color: black;
+}
+
+.space{
+    margin-bottom: 25px;
+}
+
+.card:hover{
+    background-color: rgb(198, 204, 206);
+}
+
+
+footer {
+	padding-top: 1.625rem;
+	padding-bottom: 1rem;
+}
+
+.footer .footer-col {
+	margin-bottom: 1rem;
+}
+
+.footer .list-unstyled .media-body {
+	margin-left: 0.6rem;
+}
+
+.footer .fa-stack {
+	margin-bottom: 0rem;
+	margin-right: 0.5rem;
+	font-size: 1.5rem;
+}
+
+.footer .fa-stack .fa-stack-1x {
+    color: rgb(241, 239, 235);
+	transition: all 0.2s ease;
+}
+
+.footer .fa-stack .fa-stack-2x {
+	color: #525a54;
+	transition: all 0.2s ease;
+}
+
+.footer .fa-stack:hover .fa-stack-1x {
+	color: rgb(9, 89, 209);
+}
+
+/* .foter {
+    top: 0px;
+	color: white; 
+	width: 100%; 
+	height: 50px;
+	padding: 10px 10px; 
+    margin-top: 3px;
+}
+
+.foter h5 {
+	color: white;
+	float: left;
+	font-size:20px;
+}
+
+.foter h6 {
+	color: white;
+	margin-top: 6px;
+	float: right;
+	font-size: 20px;
+}
+
+
+	#footer {
+		padding: 4em 0 2em 0;
+		background-color: #1b1b1f;
+		text-align: center;
+	}
+
+		#footer .inner {
+			width: 50%;
+			margin: 0 auto;
+        
+		}
+        #footer .inner h2 {
+			
+            color: #eeeeee;
+		}
+
+			@media screen and (max-width: 980px) {
+
+				#footer .inner {
+					width: 75%;
+				}
+
+			}
+
+			@media screen and (max-width: 480px) {
+
+				#footer .inner {
+					width: 90%;
+				}
+
+			}
+
+		#footer .copyright {
+			color: rgba(255, 255, 255, 0.5);
+			font-size: 0.9em;
+			margin: 0 0 2em 0;
+			padding: 0;
+			text-align: center;
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#footer {
+				padding: 3em 0 1em 0;
+			}
+
+		} */
